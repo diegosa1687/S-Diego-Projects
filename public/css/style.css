@@ -1,0 +1,21 @@
+/* VS CODE COLORS */
+.comments { color: #3b9443 !important; }
+.functions { color: #DCDCAA !important; }
+
+/* BODY */
+body { background-color: #8DcBe9; }
+
+/* NAVBAR */
+* { font-family: 'Droid Sans Mono', 'monospace'; }
+.navbar { border-bottom: 0.1em dashed #000; background-color: #8DcBe9; }
+.navbar ul { border-radius: 0; }
+.navbar ul ul { background-color: #000; }
+.navbar .nav-link { font-weight: 100; border: 1px solid #8DcBe9; border-radius: 3px; color: black; }
+.navbar .nav-link:hover { border: 1px dotted white; color: white; }
+.dropdown-menu a { border-left: solid 4px #010509; color: white; }
+.dropdown-menu a:hover { background-color: rgba(255, 255, 255, 0.15); border-left-color: blueviolet; color: white; }
+.offcanvas { background-color: #8DcBe9 !important; }
+
+/* WELCOME */
+.welcome { background-color: #FFDEB9; border: solid 1px black; box-shadow: -10px 10px; }
+.welcome .title { background: linear-gradient(to right, #EB6440, #bB3410); border-top-right-radius: 5px; border-top-left-radius: 5px; }
