@@ -43,6 +43,21 @@
                                     <span class="functions">PhysicsSimulators</span>()
                                 </a>
                             </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    <span class="functions">TaskList</span>()
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    <span class="functions">WizardChess</span>()
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    <span class="functions">ScientificCalculator</span>()
+                                </a>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item">

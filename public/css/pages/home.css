@@ -1,0 +1,2 @@
+.welcome { background-color: var(--color-orange-light); }
+.welcome .title{ background: linear-gradient(to right, var(--color-orange), var(--color-orange-dark)); }

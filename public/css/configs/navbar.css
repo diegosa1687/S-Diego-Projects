@@ -1,0 +1,8 @@
+.navbar { border-bottom: var(--border-dashed); background-color: var(--color-blue-ligth); }
+.navbar ul { border-radius: 0; }
+.navbar ul ul { background-color: black; }
+.navbar .nav-link { border: 1px solid var(--color-blue-ligth); border-radius: var(--border-radius); color: black; }
+.navbar .nav-link:hover { border: var(--border-dotted); }
+.dropdown-menu a { color: white; }
+.dropdown-menu a:hover { background-color: var(--color-orange-dark); color: white; }
+.offcanvas { background-color: var(--color-blue-ligth) !important; }

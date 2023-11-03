@@ -1,0 +1,15 @@
+:root {
+    --color-blue-ligth: #8DcBe9;
+    --color-orange-light: #FFDEB9;
+    --color-orange: #EB6440;
+    --color-orange-dark: #bB3410;
+    --color-green: #3b9443;
+    --color-yellow-light: #DCDCAA;
+
+    --border-dashed: 1px dashed black;
+    --border-solid: 1px solid black;
+    --border-dotted: 1px dotted black;
+    --border-radius: 5px;
+
+    --box-shadow-window: -10px 10px;
+}
